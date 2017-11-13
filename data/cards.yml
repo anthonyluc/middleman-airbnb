@@ -1,0 +1,8 @@
+- country: paris
+  name: 'Anthony Luc'
+  github_nickname: 'anthonyluc'
+  description: "Charming room in Montmartre"
+- country: tokyo
+  name: 'Olivier Grosset-Janin'
+  github_nickname: 'Groliver7'
+  description: "Small flat in Tokyo"
